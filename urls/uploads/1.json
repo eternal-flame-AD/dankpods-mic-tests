@@ -1,0 +1,2561 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "834LOaVnDHfeG0lWCQdRpWQjNfM",
+    "nextPageToken": "EAAaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_y56fDpPRe-vrDWI6jb4sjTKUtk",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkJWeThvM1dFQ0V3",
+            "snippet": {
+                "publishedAt": "2023-08-24T21:30:01Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "I went to Canadian Tire.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BVy8o3WECEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BVy8o3WECEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BVy8o3WECEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BVy8o3WECEw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BVy8o3WECEw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BVy8o3WECEw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "BVy8o3WECEw",
+                "videoPublishedAt": "2023-08-24T21:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ji86mK7tmA7ZJnFScj03-Z90zh4",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkE2RjJyd0Y5d1Y0",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:57:02Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 3rd Season (+ After Shows!) - 4/4",
+                "description": "Season 3 Part 4:\n00:00 - Cashies Special 6 \n12:26 - After Show - Cashies Consoles\n17:48 - The Microsoft Surface Earbuds. \n28:55 - After Show - The Windows 98 Experience. \n34:27 - A Classic DankPods Episode. \n48:35 - After Show - Frank Smelling Time \n54:57 - The Nokia 5710 XpressAudio \n1:07:33 - After Show - The Nokia 3200 \n1:13:09 - I got the new Apple AirPods Pros. \n1:23:26 - After Show - The Phillips FitDot. \n1:29:57 - The Michael Jordan MP3 Player. \n1:41:33 - After Show - 007 on N64. \n1:47:05 - The First Ever MP3 Player \n1:58:54 - After Show - The oldest working batteries I've seen. (also D-Link DMP-100) \n2:06:20 - Vintage Aussie Xmas Catalogues. \n2:20:32 - After Show - The Children's Wonder Bible \n2:26:15 - The Chord Mojo 2. \n2:38:48 - After Show - Cashies Sadness Time. \n2:43:46 - The FREE GEEK Nugget Dip. \n2:57:50 - After Show - Low Resolution Desk Tour\n3:03:55 - The Audio Super Nuggets. \n3:16:31 - After Show - the Hallmark Xmas Nugg \n3:21:53 - The iCraig Tablet. \n3:34:05 - After Show - 1969 Moon Landing Newspaper",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A6F2rwF9wV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A6F2rwF9wV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A6F2rwF9wV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A6F2rwF9wV4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A6F2rwF9wV4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A6F2rwF9wV4"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "A6F2rwF9wV4",
+                "videoPublishedAt": "2023-07-21T22:57:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Tydff1yAJdnn39dhmAma5npRW6U",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkp4QkJCQ1puSDFz",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:56Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 3rd Season (+ After Shows!) - 3/4",
+                "description": "Season 3 Part 3:\n00:00 - The MP3 Pen. \n11:59 - After Show - Shark Tale, for GBA. (sorry) \n17:38 - The Casio Rapman. \n27:48 - After Show - Casio Watches \n33:20 - Supermarket Headphone Special \n44:44 - After Show - Australian Supermarket Adventure \n49:35 - Genuine McDonald's Nuggets. \n59:41 - After Show - The Shrek Watch\n1:04:46 - Mono bit-crushed 1 minute 2000's music. It's HitClips. \n1:13:45 - After Show - Frank licks the couch. \n1:19:24 - The first ever iPhone \n1:33:16 - After Show - The Razr phone. \n1:39:47 - The MAN POWER 5in1 MP3 PLAYER. \n1:50:22 - After Show - The overly greasy Craig. \n1:56:42 - Turn Anything into a Speaker. (Boom Tunes) \n2:06:48 - After Show - Nugget Lucky Dip August 2022 Edition \n2:13:52 - Absolutely Awful Vintage Headphones \n2:24:56 - After Show - Australian Newspaper from 1926. \n2:31:21 - The billion dollar nugget - The Microsoft Kin. \n2:42:00 - After Show - The Walkabout Sportz \n2:48:24 - The Longest Nugget Lucky Dip Yet. \n3:06:54 - After Show - A whole set of 2010 Shrek Maccas toys. \n3:12:38 - The Google Pixel Buds Pro. \n3:25:03 - After Show - The worst wireless bud video. \n3:30:13 - The Apple Newton MessagePad. \n3:42:48 - After Show - The 1991 Drum Scene. \n3:47:58 - The Worst Portable Video Format. \n3:58:00 - After Show - I'm sorry I lied to you \n4:02:48 - 1986 Pizza Hut Headphones. \n4:13:23 - After Show - Low effort Nintendo-phones. \n4:19:57 - The Fisher Price FP3 Player. \n4:30:29 - After Show - Brand New 4G iPod Shuffle.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JxBBBCZnH1s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JxBBBCZnH1s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JxBBBCZnH1s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JxBBBCZnH1s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JxBBBCZnH1s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JxBBBCZnH1s"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "JxBBBCZnH1s",
+                "videoPublishedAt": "2023-07-21T22:56:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gbJGqFhhPX-il7GaSYj6VMlk92I",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkRveHhWLVJaUzNZ",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:50Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 3rd Season (+ After Shows!) - 2/4",
+                "description": "Season 3 Part 2:\n00:00 - The Nugget Lucky Dip - 2022 Edition \n11:29 - After Show - 2022 Nugget Lucky Dip - continued \n18:53 - Even Jesus made an MP3 player... \n30:46 - After Show - KBear Dirty Bois \n35:47 - Super old Polaroid cameras.  \n51:05 - After Show - Wasteland Polaroid Tour \n56:11 - The DankPods Headphone Starter Guide. \n1:19:27 - After Show - Austrian Audio Hi-X65 \n1:24:42 - The Koss Cheese Headphones \n1:34:29 - After Show - Upgrades to Franks Smell Dungeon \n1:42:09 - The cheapest tablet I could get. \n1:55:01 - After Show - This was recorded with a $50 tablet. \n2:00:45 - Cashies Special V \n2:15:19 - After Show - The Thunderloop Thriller. \n2:20:48 - The iPod has died. (2001 - 2022) \n2:35:46 - After Show - U2 iPod Rescue \n2:40:49 - The M1 MacBooks are nuts. \n2:51:05 - After Show - Behind the mess\n2:59:10 - Even CRAYOLA made an MP3 player... \n3:11:28 - After Show - Obscure Nugget Rescue. \n3:17:39 - Yes. I got the Sony LinkBuds. \n3:27:54 - After Show - First Walkman. \n3:33:06 - The iDuck. \n3:43:49 - After Show - 1983 Microwave Cookbook.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DoxxV-RZS3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DoxxV-RZS3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DoxxV-RZS3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DoxxV-RZS3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DoxxV-RZS3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DoxxV-RZS3Y"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "DoxxV-RZS3Y",
+                "videoPublishedAt": "2023-07-21T22:56:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "psbf7fdPwiDKvvgdmxO6aqZRqb0",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjVUOExBLS1XX1dV",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:44Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 3rd Season (+ After Shows!) - 1/4",
+                "description": "Season 3 Part 1:\n00:00 - The best earplugs I've found. \n10:17 - After Show - Talking about my drum heroes. \n15:23 - The absolute worst bootleg iPod. \n28:47 - After Show - The i-M8\n35:21 - MP3 Sunglasses. From 2004. \n46:08 - After Show - I build a Lego T Rex. \n51:15 - The Sony XB1000. \n1:03:21 - After Show - The Sony DR-11. \n1:09:24 - Manky old calculators. \n1:20:25 - After Show - My Polaroid SX70 \n1:26:03 - Even Barbie made an MP3 player... \n1:37:07 - After Show - Original Apple IEM's \n1:42:00 - I’m done with my AirPod Maxes. \n1:57:07 - After Show - Wheels Magazine from 1978. \n2:02:47 - The Jive Pod. \n2:12:40 - After Show - It's Fronk Tiem. \n2:18:58 - The Worlds Most Powerful MP3 Player. (Fiio  M17) \n2:34:29 - After Show - Deluxe Headphones\n2:39:31 - I finally try vinyl. \n2:49:27 - After Show - The 1980's Apple II experience. \n2:55:48 - Opening a brand new iPod Video. \n3:08:36 - After Show - Opening a brand new iPod Nano. \n3:14:40 - I got Kanyes Stem Player. \n3:25:33 - After Show - The LipTunes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5T8LA--W_WU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5T8LA--W_WU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5T8LA--W_WU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5T8LA--W_WU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5T8LA--W_WU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5T8LA--W_WU"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "5T8LA--W_WU",
+                "videoPublishedAt": "2023-07-21T22:56:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FuIccdzb7udZdx7SVeRcpFJWbfU",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLl9WdjNXdG9nVktB",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:37Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 2nd Season (+ After Shows!) - 4/4",
+                "description": "Season 2 Part 4:\n00:00 - It's Bootleg AirPods Time. \n13:26 - After Show - Bootleg AirPod Pros. \n18:50 - The most wasteful thing I've owned.\n30:20 - The iPod turned 20. \n42:22 - After Show - The ComotTron\n49:18 - Cashies Special Vol.IV \n1:02:12 - After Show - Cashies snare made me sad. \n1:06:51 - The DankPods Origin Story. (and future plans too I guess.) \n1:46:27 - After Show - Lego foods of no relation. \n1:51:41 - The Meze Elites. \n2:04:39 - After Show - My Home Speakers. \n2:10:55 - The Nugget Lucky Dip - Round 3 \n2:23:24 - After Show - WE DUNK AGAIN. \n2:28:27 - Finding the worst ever earbuds. \n2:41:15 - After Show - My vinyl albums. \n2:47:12 - Cheap USB Microphones. \n3:02:38 - After Show - Horsez \n3:08:26 - Twitch won't pay me. \n3:27:33 - After Show - The Drum Stream Rig. \n3:33:14 - Extra Frank Because THANK. \n3:39:12 - Headphones made for Children. \n3:52:48 - After Show - The \"Lego\" iPod Dock.\n3:57:44 - Xmas treat - The entire Giant AirPod recording. \n3:59:18 - I got the AirPod 3's. \n4:14:46 - After Show - Dick Smith Catalogue from 1990.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Vv3WtogVKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Vv3WtogVKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Vv3WtogVKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Vv3WtogVKA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Vv3WtogVKA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_Vv3WtogVKA"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "_Vv3WtogVKA",
+                "videoPublishedAt": "2023-07-21T22:56:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6Sr2QC1wbTgHdQdq139OaDRYjlc",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLmFKUkRrZmx5bFRj",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:30Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 2nd Season (+ After Shows!) - 3/4",
+                "description": "Season 2 Part 3:\n00:00 - The Mystery Nugget Surprise. \n15:57 - After Show - The MP34 Player\n21:12 - Even Ben 10 made an MP3 player... \n32:10 - After Show - The iCarly nugget. \n39:04 - Vintage Russian Headphones. \n50:08 - After Show - Chilling with Frankie. \n57:00 - The first ever mobile phones. \n1:07:44 - After Show - It just kept getting worse. \n1:11:53 - Hand made, in AUSTRALIA. \n1:23:34 - After Show - Dick Smith Tour \n1:29:22 - The Cheap Phone Spectacular. \n1:44:28 - After Show - This was filmed on a flip phone... \n1:49:10 - They made drumsticks for the iPod. \n2:01:43 - After Show - Really old drum catalogue \n2:07:25 - The earbuds that help you sleep. \n2:18:23 - After Show - The Sony Pillow Speaker. \n2:22:57 - The Sony Walkman Bean.  \n2:35:09 - After Show - The Nugge Lucke Dunke \n2:41:52 - It's the Craig-a-thon. \n2:55:18 - After Show - I got an Instand Camera. \n3:01:34 - A Brand New Sony Discman. \n3:12:59 - After Show - 2003 Sony Walkman CD \n3:19:53 - Hewlett-Packard made iPods?? \n3:31:07 - After Show - The Hewlett-Packard Shuffle. \n3:36:24 - I got the Sony XM4's. \n3:48:53 - After Show - The Sony Recorder. \n3:56:25 - Even MTV made an MP3 player... \n4:06:54 - After Show - The Samsng \"YEPP\" \n4:13:35 - This is a $2000 smartphone. From 1996. \n4:26:09 - After Show - My first \"smartphone\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aJRDkflylTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aJRDkflylTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aJRDkflylTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aJRDkflylTc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aJRDkflylTc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aJRDkflylTc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "aJRDkflylTc",
+                "videoPublishedAt": "2023-07-21T22:56:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pKN5cAylx5mb4saE_dDOaYPmc_A",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLmxzRmxVVWZIaTZz",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:24Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 2nd Season  (+ After Shows!) - 2/4",
+                "description": "Season 2 Part 2:\n00:00 - Big Companies make the Worst Junk. \n15:29 - After Show - An Original Craig. \n24:15 - I look at some Prototype iPods. \n41:17 - After Show - Essential Accessories \n49:11 - The Coolest looking MP3 Player. \n1:02:15 - After Show - The Un-coolest looking MP3 Player. \n1:08:41 - I Present - \"Kwack Kwack. The Duck.\" \n1:19:23 - After Show - The Warehouse. \n1:29:04 - My Cheap Headphone Starter Guide. \n1:53:50 - After Show - An interview with Frank. \n2:00:34 - Meze actually sent me Empyreans. \n2:13:42 - After Show - The Headphone Horde. \n2:24:44 - Even BATMAN made an MP3 player. \n2:35:43 - After Show - I was scammed by Batman. \n2:40:30 - The Nugget Lucky Dip 2 \n2:56:16 - After Show - My 1980's gaming rig. \n3:04:12 - More Stupid iPod Accessories. \n3:21:21 - After Show - PODS iPod Speakers \n3:26:55 - I got Skullcandy Crushers... \n3:38:58 - After Show - The ModPod. \n3:45:11 - I got an iDog. \n3:56:45 - After Show - Vintage Toys R Us Catalogue. \n4:02:22 - The songs I test headphones with. \n4:11:57 - I’m leaving Tidal. \n4:18:44 - After Show - Selfishly fixing of an iPod for myself.\n4:24:21 - The Galaxy Z Flip is junk. \n4:37:06 - After Show - The worst phone I ever owned. \n4:44:23 - Cashies Special Vol. 3 \n4:59:21 - After Show - New iPad Case Ceremony",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lsFlUUfHi6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lsFlUUfHi6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lsFlUUfHi6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lsFlUUfHi6s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lsFlUUfHi6s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lsFlUUfHi6s"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "lsFlUUfHi6s",
+                "videoPublishedAt": "2023-07-21T22:56:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lBpDceGpZz2ptIMX0D669i-O1Kc",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnlqZXlOdDA0STRz",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:17Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 2nd Season  (+ After Shows!) - 1/4",
+                "description": "Season 2 Part 1:\n00:00 - The Nugget Lucky Dip \n13:12 - After Show - Feeling Hott Hott Hott\n19:35 - The Colossal MP3 Player. \n32:33 - After Show - Dick Smith Circa 2002 \n38:26 - Raycons, Round Two. \n54:26 - After Show - Prototype iPods first look! \n1:01:22 - The bluetooth speaker shootout. \n1:16:48 - After Show - The Warehouse. \n1:21:22 - Cashies Special 2021 \n1:38:59 - After Show - Pokemanned Cardboarded Rectangles \n1:46:48 - The Ugliest MP3 Player.  \n2:00:43 - After Show - My Dad's old mobile phone. \n2:06:59 - I got some in ear monitors.  \n2:27:48 - After Show - The Nugget Realm Tour. \n2:33:17 - I got the Galaxy Bud Pros.  \n2:48:30 - After Show - Frank Interview \n2:54:02 - Opening a brand new iPod Shuffle.  \n3:04:42 - After Show - Sheck, for Gameboy. \n3:11:29 - The worst headphones I've bought.  \n3:25:38 - After Show - Tandy Catalogue from 1988 \n3:34:16 - Even Hello Kitty made an MP3 player... \n3:47:59 - After Show - \"My Memorex\" \n3:55:18 - Bone Conduction Headphones. \n4:05:23 - After Show - Nugg Luck Dunk\n4:13:36 - I present to you, the JAMP3. \n4:27:49 - After Show - Idiots guide to MP3's from 1999.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yjeyNt04I4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yjeyNt04I4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yjeyNt04I4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yjeyNt04I4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yjeyNt04I4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yjeyNt04I4s"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "yjeyNt04I4s",
+                "videoPublishedAt": "2023-07-21T22:56:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KNOxyWN0KQSrYIvrNWEry8twLqU",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlF3aEtLWFFjMUtz",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:10Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 1st Season (+ After Shows!) - 4/4",
+                "description": "Season 1 Part 4:\n00:00 - The Sad Nugget Roundup. \n18:13 - After Show - The Dick Smith Photo Nugget \n24:38 - I turned my iPod into a bee.  \n37:47 - After Show - Awful iCoursic Dock No 2 \n45:23 - I bought Bose Audio Sunglasses. \n1:00:23 - After Show - Craig's 3 in 1 Audio Set \n1:08:57 - My Sets of Beautiful Headphones \n1:31:49 - After Show - Nugget Lucky Dip 2 \n1:41:50 - I found a bootleg 3G Nano.  \n1:58:42 - After Show - The Apple Bargain Bin \n2:12:01 - I bought Beats By Dre.  \n2:30:18 - After Show - The iPad. \n2:36:16 - The best worst headphones ever.  \n2:47:13 - Opening a SEALED iPod Nano. \n2:59:01 - After Show - A Brand New Nugg. \n3:06:02 - Even NERF made an mp3 player...  \n3:21:31 - After Show - A trip to \"Visual Land\" \n3:30:25 - Audiophile Xmas Gift Ideas 2020 \n3:45:44 - I bought the Nuraphones.  \n4:02:52 - After Show - Game Gear Glory \n4:11:06 - The 2020 Bootleg Bonanza. \n4:37:33 - After Show - Selfish opening of a toy for myself. \n4:43:06 - My AirPods Max's Died... \n4:57:10 - After Show - Accessory kit for Turtles. \n5:04:07 - Merry Xmas! (+ plans, teasers and THANK YOU!)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QwhKKXQc1Ks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QwhKKXQc1Ks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QwhKKXQc1Ks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QwhKKXQc1Ks/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QwhKKXQc1Ks/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QwhKKXQc1Ks"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "QwhKKXQc1Ks",
+                "videoPublishedAt": "2023-07-21T22:56:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u6sgq59ZtWN7Xq7OWBFSyNgkF10",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlNqZmM3aDZWTlVv",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:56:02Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 1st Season (+ After Shows!) - 3/4",
+                "description": "Season 1 Part 3:\n00:00 - I found a nightmare. \n12:15 - After Show - The most boring mp3 player. \n19:38 - Make your phone sound AMAZING. \n39:32 - After Show - NIB Vintage 8ohm headphones! \n45:26 - I bought Raycons \n59:43 - Stupid iPod Accessories. \n1:14:25 - After Show - Mad Catz Shuffle Kit\n1:18:57 - How to fix every iPod Classic. \n2:00:35 - After Show - Studio Tour! \n2:07:12 - I found a bootleg iPod Touch. \n2:22:20 - After Show - The other bootleg iPod Touch \n2:27:57 - Samsung's Magic Beans. \n2:46:17 - After Show - What AKG's engineers are up to. \n2:53:06 - My new favourite audio thing. (Fiio M15) \n3:13:18 - After Show - Frank the Snake \n3:19:15 - The best $45 I've ever spent.  \n3:32:11 - After Show - The Russian iRiver \n3:39:19 - 4000GB in an iPod Classic.  \n3:57:18 - After Show - MP3 player for children. \n4:07:41 - Do gaming headsets sound good?  \n4:30:53 - After Show - The Headphone Horde...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sjfc7h6VNUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sjfc7h6VNUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sjfc7h6VNUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Sjfc7h6VNUo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Sjfc7h6VNUo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Sjfc7h6VNUo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Sjfc7h6VNUo",
+                "videoPublishedAt": "2023-07-21T22:56:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2MMrcU_EUJ3lsrTUMMB2-_F3fKE",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLklHendFcG5CMzhz",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:55:53Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 1st Season (+ After Shows!) - 2/4",
+                "description": "Season 1 Part 2:\n00:00 - The 2000GB iPod Classic.\n18:12 - After Show - Easier to open iPods\n22:33 - The coolest looking FLAC player.\n37:49 - After Show - Playing with an oscilloscope. \n42:05 - I got \"Free AirPods\" from Wish.com \n53:02 - After Show - The other Wish headphones. \n57:33 - This iPod was on fire. Let's plug it in. \n1:05:56 - After Show - Hiding scars with pretty cases. \n1:14:09 - Boot Windows 10 from an iPod Classic. \n1:27:18 - After Show - CASHIES ADVENTURE\n1:34:47 - This is NOT an iPod. \n1:47:32 - After Show - The first iPod Headphones. \n1:52:11 - I bought a Zune in 2020\n2:17:37 - After Show - That smaller Zune they also made. \n2:23:34 - I found a bootleg iPod Nano.  \n2:37:43 - After Show - The other bootleg Nano.\n2:44:13 - Do cheaper headphones stink? \n3:02:48 - After Show - Nugget lucky dip! \n3:10:13 - PC SSDs in an iPod Classic! (M.2/mSata) \n3:26:16 - After Show - A Creative Journey. \n3:33:18 - Trying to run Doom Eternal through an iPod Classic.\n3:47:13 - After Show - Game like it's 1980. \n3:53:18 - Ebay Opened My Sealed iPod \n4:11:55 - After Show - The RC@ K@zoo \n4:21:05 - CASHIES SPECIAL \n4:33:36 - After Show - The DO IT ALL nugget. \n4:44:04 - I've never opened these before! \n5:05:29 - After Show - ShekPod Rescue.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IGzwEpnB38s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IGzwEpnB38s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IGzwEpnB38s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IGzwEpnB38s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IGzwEpnB38s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IGzwEpnB38s"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "IGzwEpnB38s",
+                "videoPublishedAt": "2023-07-21T22:55:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cLbCMwd1uNYwl4OSox0hPb3P8hs",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlJzWUIyal82dGlB",
+            "snippet": {
+                "publishedAt": "2023-07-21T22:55:45Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "DankPods - The Complete 1st Season (+ After Shows!) - 1/4",
+                "description": "Season 1 Part 1:\n00:00 - I was given a free iPod, can it be fixed?\n09:41 - Massive 128GB in an old black and white iPod. Flash modding an iPod Classic  \n14:47 - Building a 1000GB iPod classic! Can it handle the storage?  \n26:00 - Testing the largest iPod battery, 3000mAh! \n30:25 - How cheap can you flash mod a garbage iPod? \n41:34 - I built an iPod out of junk. The ShrekPod Pro. \n50:26 - Flash vs Hard Drive. Don't watch if you love iPods.  \n59:03 - Playing DOOM on an old iPod \n1:01:18 - The Thickest iPod Ever Made \n1:06:50 - How to fix a scratched iPod Classic\n1:13:06 - Use your iPod with Bluetooth \n1:20:17 - The Perfect Bluetooth iPod Classic \n1:25:11 - I’m giving away an iPod! Drawn 2nd Jan 2020  \n1:29:21 - This video was filmed with an iPod Nano. I'm sorry. \n1:34:36 - I found the worst iPod dock. \n1:45:55 - A \"Wireless Charging\" kit for iPods circa 2009 \n1:55:13 - The most Aussie iPod accessory I've found\n2:00:00 - Opening iPods the wrong way. \n2:16:50 - Using Wikipedia on an iPod Mini  \n2:24:32 - eBay destroyed my iPods \n2:33:29 - STOP USING THE EBAY GLOBAL SHIPPING PROGRAM \n2:43:13 - Even LEGO made an MP3 player. \n2:54:52 - I bought the cheapest fake iPods.  \n3:05:43 - Don't fall for this scam! \n3:17:02 - 100,000 SUBSCRIBER SPECIAL \n3:26:58 - The CHEAPEST iPod to modify \n3:45:23 - I tried to \"antique\" my iPod.    \n3:52:42 - The Most Wasteful Ipod Accessory \n4:04:00 - This is the new \"iPod Classic\".  \n4:27:46 - One Grit Origin Story \n4:30:01 - The iPod Nano stinks. \n4:39:17 - After Show - The Indestructible Nano \n4:42:32 - We make a see-through iPod. \n4:49:34 - After Show - One of those iPod books.  \n4:55:11 - “3D\" For your iPod.  \n5:04:35 - After Show - Using Old iOS \n5:11:05 - Opening the hardest iPod to open.  \n5:20:09 - After Show - I don't like the 6/7th gen classic...   \n5:26:04 - I killed the 1TB iPod... \n5:37:19 - After Show - My First MP3 player.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RsYB2j_6tiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RsYB2j_6tiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RsYB2j_6tiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RsYB2j_6tiA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RsYB2j_6tiA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RsYB2j_6tiA"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "RsYB2j_6tiA",
+                "videoPublishedAt": "2023-07-21T22:55:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DgNmhWPFXFrhVCBaJ84MsgD78i8",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlVzM2drWjFyNXVj",
+            "snippet": {
+                "publishedAt": "2023-07-20T21:36:51Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Hey everyone, I need to take a break!",
+                "description": "The Complete Series (with After Shows!): \nhttps://www.youtube.com/playlist?list=PLv0k4pV5hufwKxaccv9GEJAQmBt-JX1O9\nThank you Patreons!: https://www.patreon.com/dankpods\nThe Trash Network: https://www.floatplane.com/channel/GarbageStream/home\nGaming channel: https://www.youtube.com/@HelloImGaming\nJames Channel: https://www.youtube.com/@Games_for_James",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Us3gkZ1r5uc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Us3gkZ1r5uc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Us3gkZ1r5uc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Us3gkZ1r5uc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Us3gkZ1r5uc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Us3gkZ1r5uc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Us3gkZ1r5uc",
+                "videoPublishedAt": "2023-07-20T21:36:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tfG0skYnrhRkwPMKT_TQW05uV_8",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlVESG5vb3NjOUtJ",
+            "snippet": {
+                "publishedAt": "2023-07-13T21:40:24Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Cashies Special VIII",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UDHnoosc9KI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UDHnoosc9KI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UDHnoosc9KI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UDHnoosc9KI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UDHnoosc9KI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UDHnoosc9KI"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "UDHnoosc9KI",
+                "videoPublishedAt": "2023-07-13T21:40:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UNv7xa05ktFNlA34mSO2v8LV8FM",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkJrTWpvTTJ6NmNv",
+            "snippet": {
+                "publishedAt": "2023-07-06T21:07:28Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The MP5 Player.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BkMjoM2z6co/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BkMjoM2z6co/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BkMjoM2z6co/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BkMjoM2z6co/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BkMjoM2z6co/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BkMjoM2z6co"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "BkMjoM2z6co",
+                "videoPublishedAt": "2023-07-06T21:07:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2RSdrTo2YvweXKyZwDv4wBG9LdA",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLldtVzNJRlc3T0dr",
+            "snippet": {
+                "publishedAt": "2023-06-29T20:38:48Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "I got a brand new iPhone 4S.",
+                "description": "$1 Patrons get extra vids a week!: https://www.patreon.com/dankpods\nMy car channel: https://www.youtube.com/channel/UCHdpnvKJDijKNe2caIasnww\nMy drum channel: https://www.youtube.com/channel/UCufzX8bG4LkzqKEm7J7W7UA\nI stream drums on Floatplane!: https://www.floatplane.com/channel/GarbageTime/home\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WmW3IFW7OGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WmW3IFW7OGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WmW3IFW7OGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WmW3IFW7OGk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WmW3IFW7OGk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WmW3IFW7OGk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "WmW3IFW7OGk",
+                "videoPublishedAt": "2023-06-29T20:38:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uaSpjvUA1MrgyIqo8KLpHLajLtw",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlpWU0Nsa1NBSW9v",
+            "snippet": {
+                "publishedAt": "2023-06-22T20:36:15Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "VR, but it's from 1995.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZVSClkSAIoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZVSClkSAIoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZVSClkSAIoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZVSClkSAIoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZVSClkSAIoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZVSClkSAIoo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ZVSClkSAIoo",
+                "videoPublishedAt": "2023-06-22T20:36:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6o5YvW_KGm42xDwzDsIM25BTs3I",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLm1kZVBxS1JjM0tZ",
+            "snippet": {
+                "publishedAt": "2023-06-15T21:08:44Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The nugget with fold out speakers.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mdePqKRc3KY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mdePqKRc3KY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mdePqKRc3KY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mdePqKRc3KY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mdePqKRc3KY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mdePqKRc3KY"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "mdePqKRc3KY",
+                "videoPublishedAt": "2023-06-15T21:08:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Sw5FFVIFCOjgbxlyWKOT0SVmHHI",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjZ5WmtWMmpDLTFZ",
+            "snippet": {
+                "publishedAt": "2023-06-08T21:17:06Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "A blessed Nugget Dip.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6yZkV2jC-1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6yZkV2jC-1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6yZkV2jC-1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6yZkV2jC-1Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6yZkV2jC-1Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6yZkV2jC-1Y"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "6yZkV2jC-1Y",
+                "videoPublishedAt": "2023-06-08T21:17:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fnJzRs9lRpTqGdeMVF1_WHu47rk",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkhGY2s0Q0UyTDNn",
+            "snippet": {
+                "publishedAt": "2023-06-01T20:51:14Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Meze 109 PROs",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HFck4CE2L3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HFck4CE2L3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HFck4CE2L3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HFck4CE2L3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HFck4CE2L3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HFck4CE2L3g"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "HFck4CE2L3g",
+                "videoPublishedAt": "2023-06-01T20:51:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HV9iXV7zAeKRpvRHBI9MalF2uGs",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLi1VaVZlMG16aWR3",
+            "snippet": {
+                "publishedAt": "2023-05-25T20:46:59Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "My Apple Studio Display Died.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-UiVe0mzidw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-UiVe0mzidw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-UiVe0mzidw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-UiVe0mzidw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-UiVe0mzidw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-UiVe0mzidw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "-UiVe0mzidw",
+                "videoPublishedAt": "2023-05-25T20:46:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AHZY2c6otGtaE6pTs9shMWS2RSY",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjFFNDFVakdVU3pr",
+            "snippet": {
+                "publishedAt": "2023-05-18T21:02:21Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Stupid Novelty Telephones",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1E41UjGUSzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1E41UjGUSzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1E41UjGUSzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1E41UjGUSzk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1E41UjGUSzk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1E41UjGUSzk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "1E41UjGUSzk",
+                "videoPublishedAt": "2023-05-18T21:02:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-2mi03NDCyuBC841ROhGi47ptRo",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnhCdzIzRnJuN3dR",
+            "snippet": {
+                "publishedAt": "2023-05-11T21:10:25Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The worst iPhone Apple made.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xBw23Frn7wQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xBw23Frn7wQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xBw23Frn7wQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xBw23Frn7wQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xBw23Frn7wQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xBw23Frn7wQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "xBw23Frn7wQ",
+                "videoPublishedAt": "2023-05-11T21:10:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YXGlDr6wTROhndOwkaE0dcyt0XM",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjlKbmtBZFFNYkF3",
+            "snippet": {
+                "publishedAt": "2023-05-04T20:43:01Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The GK-Music \"UltraPhones\"",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9JnkAdQMbAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9JnkAdQMbAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9JnkAdQMbAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9JnkAdQMbAw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9JnkAdQMbAw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9JnkAdQMbAw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "9JnkAdQMbAw",
+                "videoPublishedAt": "2023-05-04T20:43:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Nu2Mu7wp6pLqI_6E-Z2lA_-ezUU",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlhxaDV5eGZ2cjRB",
+            "snippet": {
+                "publishedAt": "2023-04-27T21:02:01Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The watch for people who can't see.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xqh5yxfvr4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xqh5yxfvr4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xqh5yxfvr4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xqh5yxfvr4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Xqh5yxfvr4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Xqh5yxfvr4A"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Xqh5yxfvr4A",
+                "videoPublishedAt": "2023-04-27T21:02:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4hJik05qbu074gNsDVFhMNeTwqw",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnZCR0d6MzJ0WXhR",
+            "snippet": {
+                "publishedAt": "2023-04-20T21:02:37Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "1980s Electronic Drum Sticks.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBGGz32tYxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBGGz32tYxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBGGz32tYxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vBGGz32tYxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vBGGz32tYxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vBGGz32tYxQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "vBGGz32tYxQ",
+                "videoPublishedAt": "2023-04-20T21:02:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gx0yikLxNoC90sxYBZTBNppTPNQ",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlpTX1hqMnNlX2Zv",
+            "snippet": {
+                "publishedAt": "2023-04-13T20:51:48Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Samsung Galaxy Note 7",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZS_Xj2se_fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZS_Xj2se_fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZS_Xj2se_fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZS_Xj2se_fo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZS_Xj2se_fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZS_Xj2se_fo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ZS_Xj2se_fo",
+                "videoPublishedAt": "2023-04-13T20:51:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TLI2SXPr4YL0AyFO_QdTidGK1Mk",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjRsUS1abHcwRW00",
+            "snippet": {
+                "publishedAt": "2023-04-06T21:06:31Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "I got PlayStation VR2.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4lQ-Zlw0Em4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4lQ-Zlw0Em4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4lQ-Zlw0Em4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4lQ-Zlw0Em4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4lQ-Zlw0Em4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4lQ-Zlw0Em4"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "4lQ-Zlw0Em4",
+                "videoPublishedAt": "2023-04-06T21:06:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GKBRV4Rx95Luu88z4uAS9qGr6sw",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlIxdkdNMTR1Y3Jj",
+            "snippet": {
+                "publishedAt": "2023-03-30T20:08:00Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The \"Interchangeable Game Child\".",
+                "description": "James' Instagram! https://www.instagram.com/games_for_james/\nThank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R1vGM14ucrc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R1vGM14ucrc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R1vGM14ucrc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R1vGM14ucrc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R1vGM14ucrc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R1vGM14ucrc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "R1vGM14ucrc",
+                "videoPublishedAt": "2023-03-30T20:08:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4gij7nMk3syZfwgf_-Z5dC-b01s",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjVNVTF1R0VnNVJ3",
+            "snippet": {
+                "publishedAt": "2023-03-23T19:54:12Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Yamaha Reface CS Synthesiser.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5MU1uGEg5Rw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5MU1uGEg5Rw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5MU1uGEg5Rw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5MU1uGEg5Rw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5MU1uGEg5Rw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5MU1uGEg5Rw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "5MU1uGEg5Rw",
+                "videoPublishedAt": "2023-03-23T19:54:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Eew7SSGiSLVB3Zdg1U1uM2yOIbQ",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkt4OFJ1SVVVUW5B",
+            "snippet": {
+                "publishedAt": "2023-03-16T19:54:16Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The bootleg AirPod Max headphones.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kx8RuIUUQnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kx8RuIUUQnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kx8RuIUUQnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kx8RuIUUQnA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Kx8RuIUUQnA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Kx8RuIUUQnA"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Kx8RuIUUQnA",
+                "videoPublishedAt": "2023-03-16T19:54:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ta4xJYtv4xsPFCve9S5znk4h0xs",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnZheTY1TEdUYlFJ",
+            "snippet": {
+                "publishedAt": "2023-03-09T19:52:31Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Even Hot Wheels made an MP3 player...",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vay65LGTbQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vay65LGTbQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vay65LGTbQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vay65LGTbQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vay65LGTbQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vay65LGTbQI"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "vay65LGTbQI",
+                "videoPublishedAt": "2023-03-09T19:52:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_h7TvHf52qnIfODLTT4qpJh2N-A",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLm5KUllEYlY3anIw",
+            "snippet": {
+                "publishedAt": "2023-03-02T19:54:30Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Failed Amazon Fire Phone.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nJRYDbV7jr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nJRYDbV7jr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nJRYDbV7jr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nJRYDbV7jr0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nJRYDbV7jr0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nJRYDbV7jr0"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "nJRYDbV7jr0",
+                "videoPublishedAt": "2023-03-02T19:54:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f-yxEQe59RyrhRNqU5X-3driqFA",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkVQWW5xb2dKQzVR",
+            "snippet": {
+                "publishedAt": "2023-02-23T19:37:03Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Headphone Stink-a-thon.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPYnqogJC5Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPYnqogJC5Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPYnqogJC5Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EPYnqogJC5Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EPYnqogJC5Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EPYnqogJC5Q"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "EPYnqogJC5Q",
+                "videoPublishedAt": "2023-02-23T19:37:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oGAylcZvVjUJFyO5oREhgummlOE",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLjIwWHo0S0xCZzVB",
+            "snippet": {
+                "publishedAt": "2023-02-16T19:40:25Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The 2023 Nugget Lucky Dip",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/20Xz4KLBg5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/20Xz4KLBg5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/20Xz4KLBg5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/20Xz4KLBg5A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/20Xz4KLBg5A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "20Xz4KLBg5A"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "20Xz4KLBg5A",
+                "videoPublishedAt": "2023-02-16T19:40:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oGDx2iL0Dd9iurRuK_79x96G2ds",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkMzdHU4QW9Wd3hr",
+            "snippet": {
+                "publishedAt": "2023-02-09T20:09:18Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The unboxing experience I never had.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C3tu8AoVwxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C3tu8AoVwxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C3tu8AoVwxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C3tu8AoVwxk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C3tu8AoVwxk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C3tu8AoVwxk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "C3tu8AoVwxk",
+                "videoPublishedAt": "2023-02-09T20:09:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aacbnri-q9oBsu0K9kLWeemLOO4",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlI1TDNVUVFndHVr",
+            "snippet": {
+                "publishedAt": "2023-02-02T19:57:30Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Those Tiger Handheld Consoles",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R5L3UQQgtuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R5L3UQQgtuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R5L3UQQgtuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R5L3UQQgtuk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R5L3UQQgtuk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R5L3UQQgtuk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "R5L3UQQgtuk",
+                "videoPublishedAt": "2023-02-02T19:57:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L_bxCrVEUugAbN1HPu7q0TyiWQk",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLm95X3FYbnlrOEVR",
+            "snippet": {
+                "publishedAt": "2023-01-26T20:03:32Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Cashies Special: Bendigo edition.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oy_qXnyk8EQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oy_qXnyk8EQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oy_qXnyk8EQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oy_qXnyk8EQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oy_qXnyk8EQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oy_qXnyk8EQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "oy_qXnyk8EQ",
+                "videoPublishedAt": "2023-01-26T20:03:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x0FHv7yx6OzmBPEfIRDQnLziaaA",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLllhVUFiRm9MakhN",
+            "snippet": {
+                "publishedAt": "2023-01-19T19:50:28Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The \"Tech that let me down\" Special.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YaUAbFoLjHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YaUAbFoLjHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YaUAbFoLjHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YaUAbFoLjHM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YaUAbFoLjHM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YaUAbFoLjHM"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "YaUAbFoLjHM",
+                "videoPublishedAt": "2023-01-19T19:50:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wj6PKbVOULhJEY01l7Qh2jsh2-M",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLmxMTi1LekJKUWln",
+            "snippet": {
+                "publishedAt": "2023-01-12T19:52:38Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Skullcandy Crusher Evos.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lLN-KzBJQig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lLN-KzBJQig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lLN-KzBJQig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lLN-KzBJQig/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lLN-KzBJQig/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lLN-KzBJQig"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "lLN-KzBJQig",
+                "videoPublishedAt": "2023-01-12T19:52:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SZwsES48q802R4OEp3Wigb_44Ws",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnplN0VBQ1Y2ODU4",
+            "snippet": {
+                "publishedAt": "2023-01-05T03:33:13Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Hey everyone... I need a mulligan this week!",
+                "description": "A mulligan is a golf saying🏌️\u200d♂️.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ze7EACV6858/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ze7EACV6858/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ze7EACV6858/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ze7EACV6858/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ze7EACV6858/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ze7EACV6858"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ze7EACV6858",
+                "videoPublishedAt": "2023-01-05T03:33:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p0QblX7R5e05fbmUi4HafvXbORM",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLlBhaWZfNTYwaDNv",
+            "snippet": {
+                "publishedAt": "2022-12-29T20:06:51Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The iCraig Tablet.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Paif_560h3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Paif_560h3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Paif_560h3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Paif_560h3o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Paif_560h3o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Paif_560h3o"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Paif_560h3o",
+                "videoPublishedAt": "2022-12-29T20:06:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mUMlkFJU8K74jeMh8JLjJrYHqrE",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLm9MUlBsdjVIOTNn",
+            "snippet": {
+                "publishedAt": "2022-12-22T20:04:20Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Audio Super Nuggets.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLRPlv5H93g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLRPlv5H93g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLRPlv5H93g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oLRPlv5H93g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oLRPlv5H93g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oLRPlv5H93g"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "oLRPlv5H93g",
+                "videoPublishedAt": "2022-12-22T20:04:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GWviXRGTV0WUOi1yN4OAvgV5HAE",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLnJwNkhlLUROS1pZ",
+            "snippet": {
+                "publishedAt": "2022-12-15T20:09:12Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The FREE GEEK Nugget Dip.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rp6He-DNKZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rp6He-DNKZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rp6He-DNKZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rp6He-DNKZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rp6He-DNKZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rp6He-DNKZY"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "rp6He-DNKZY",
+                "videoPublishedAt": "2022-12-15T20:09:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mGnG8AjQkU7VpqQPSqFxOZA9NRI",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLi1IWFotaTZkSlFj",
+            "snippet": {
+                "publishedAt": "2022-12-08T20:19:39Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Chord Mojo 2.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-HXZ-i6dJQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-HXZ-i6dJQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-HXZ-i6dJQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-HXZ-i6dJQc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-HXZ-i6dJQc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-HXZ-i6dJQc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "-HXZ-i6dJQc",
+                "videoPublishedAt": "2022-12-08T20:19:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3ieE3vJw0-92r7DAZgYTRe1_PCA",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLmR4NlhLZG81Z2xJ",
+            "snippet": {
+                "publishedAt": "2022-12-01T20:06:09Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Vintage Aussie Xmas Catalogues.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dx6XKdo5glI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dx6XKdo5glI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dx6XKdo5glI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dx6XKdo5glI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dx6XKdo5glI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dx6XKdo5glI"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "dx6XKdo5glI",
+                "videoPublishedAt": "2022-12-01T20:06:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FoTREdMaSpr0xgwwYpAyet9TZHU",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLk0xaEdQZWhFNzZr",
+            "snippet": {
+                "publishedAt": "2022-11-24T19:35:44Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The First Ever MP3 Player",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M1hGPehE76k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M1hGPehE76k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M1hGPehE76k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M1hGPehE76k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M1hGPehE76k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M1hGPehE76k"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "M1hGPehE76k",
+                "videoPublishedAt": "2022-11-24T19:35:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dKNlIB0aLmSUVdZU2RttbYsz1_k",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLllub0RPdFN1VVl3",
+            "snippet": {
+                "publishedAt": "2022-11-17T19:37:58Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "The Michael Jordan MP3 Player.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YnoDOtSuUYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YnoDOtSuUYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YnoDOtSuUYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YnoDOtSuUYw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YnoDOtSuUYw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YnoDOtSuUYw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "YnoDOtSuUYw",
+                "videoPublishedAt": "2022-11-17T19:37:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y5BAeEihvW0kuvu4cmqYVCBjJDc",
+            "id": "VVU3SndqOWZrcmYxYWRONGZNbVRrcHVnLkRBTmpmSkxyYzNZ",
+            "snippet": {
+                "publishedAt": "2022-11-10T19:43:41Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "I got the new Apple AirPods Pros.",
+                "description": "Thank you Patreons!: https://www.patreon.com/dankpods\nMy livestreams: https://www.floatplane.com/channel/GarbageStream/home\nMy gaming thing: https://www.youtube.com/@HelloImGaming\nMy car thing: https://www.youtube.com/@GarbageTime420\nMy drum thing: https://www.youtube.com/@the.drum.thing.\nFrank the snake: https://www.instagram.com/biteyfrank/\nA DankPods Discord: https://discord.gg/BrssHgh6jP  \nCustom iPods by Elite Obsolete: https://eoe.works",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DANjfJLrc3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DANjfJLrc3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DANjfJLrc3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DANjfJLrc3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DANjfJLrc3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "UU7Jwj9fkrf1adN4fMmTkpug",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DANjfJLrc3Y"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "DANjfJLrc3Y",
+                "videoPublishedAt": "2022-11-10T19:43:41Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 225,
+        "resultsPerPage": 50
+    }
+}

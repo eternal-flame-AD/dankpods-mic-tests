@@ -1,0 +1,44 @@
+{
+    "ranges": [
+        [
+            {
+                "seconds": 164,
+                "milliseconds": 817
+            },
+            {
+                "seconds": 178,
+                "milliseconds": 17
+            }
+        ],
+        [
+            {
+                "seconds": 238,
+                "milliseconds": 750
+            },
+            {
+                "seconds": 256,
+                "milliseconds": 267
+            }
+        ],
+        [
+            {
+                "seconds": 626,
+                "milliseconds": 317
+            },
+            {
+                "seconds": 642,
+                "milliseconds": 100
+            }
+        ],
+        [
+            {
+                "seconds": 759,
+                "milliseconds": 17
+            },
+            {
+                "seconds": 784,
+                "milliseconds": 683
+            }
+        ]
+    ]
+}

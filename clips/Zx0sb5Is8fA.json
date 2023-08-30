@@ -1,0 +1,14 @@
+{
+    "ranges": [
+        [
+            {
+                "seconds": 503,
+                "milliseconds": 283
+            },
+            {
+                "seconds": 523,
+                "milliseconds": 67
+            }
+        ]
+    ]
+}

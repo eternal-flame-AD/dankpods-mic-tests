@@ -1,0 +1,54 @@
+{
+    "ranges": [
+        [
+            {
+                "seconds": 35,
+                "milliseconds": 317
+            },
+            {
+                "seconds": 49,
+                "milliseconds": 783
+            }
+        ],
+        [
+            {
+                "seconds": 368,
+                "milliseconds": 950
+            },
+            {
+                "seconds": 399,
+                "milliseconds": 817
+            }
+        ],
+        [
+            {
+                "seconds": 569,
+                "milliseconds": 283
+            },
+            {
+                "seconds": 590,
+                "milliseconds": 250
+            }
+        ],
+        [
+            {
+                "seconds": 246,
+                "milliseconds": 383
+            },
+            {
+                "seconds": 261,
+                "milliseconds": 183
+            }
+        ],
+        [
+            {
+                "seconds": 427,
+                "milliseconds": 450
+            },
+            {
+                "seconds": 462,
+                "milliseconds": 300
+            }
+        ]
+    ]
+}

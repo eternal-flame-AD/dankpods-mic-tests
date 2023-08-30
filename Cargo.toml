@@ -1,0 +1,19 @@
+[package]
+name = "dankpods-mic-tests"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.75"
+chrono = { version = "0.4.26", features = ["serde"] }
+clap = { version = "4.4.1", features = ["derive"] }
+env_logger = "0.10.0"
+image = "0.24.7"
+itertools = "0.11.0"
+log = "0.4.20"
+rayon = "1.7.0"
+regex = "1.9.4"
+serde = { version = "1.0.188", features = ["derive"] }
+serde_json = "1.0.105"

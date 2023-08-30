@@ -1,0 +1,2562 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "z350XiwKeuRZKZtAc3p_lP9y4l8",
+    "nextPageToken": "EAAaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
+    "prevPageToken": "EAEaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5nCzGV_5OH2KGG_CzGT4ySU_Yho",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:34Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Frank Interview",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o346yRBD6Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o346yRBD6Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o346yRBD6Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o346yRBD6Yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o346yRBD6Yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o346yRBD6Yo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "o346yRBD6Yo",
+                "videoPublishedAt": "2021-02-18T11:11:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7xrPuoMeDpXnulK0tXFHom2sZXQ",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:38Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Shrek, for Gameboy.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xRo4XOcMfAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xRo4XOcMfAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xRo4XOcMfAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xRo4XOcMfAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xRo4XOcMfAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xRo4XOcMfAA"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "xRo4XOcMfAA",
+                "videoPublishedAt": "2021-02-25T07:31:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jrhRPuEh0HJgW9lU0riWKU3VrKo",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:42Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Tandy Catalogue from 1988",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R1sPAeNuwPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R1sPAeNuwPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R1sPAeNuwPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R1sPAeNuwPc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R1sPAeNuwPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R1sPAeNuwPc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "R1sPAeNuwPc",
+                "videoPublishedAt": "2021-03-04T07:56:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RCQmEsqs1y2p8FtfbiVWSokhxp0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:47Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: \"My Memorex\"",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KQz6mFSTcA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KQz6mFSTcA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KQz6mFSTcA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KQz6mFSTcA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KQz6mFSTcA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KQz6mFSTcA4"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "KQz6mFSTcA4",
+                "videoPublishedAt": "2021-03-11T08:11:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bTSmbud3hi1wI-WHNn9M_a_iUHs",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:52Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Nugg Luck Dunk",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z9Ta7wcEgpU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z9Ta7wcEgpU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z9Ta7wcEgpU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z9Ta7wcEgpU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z9Ta7wcEgpU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z9Ta7wcEgpU"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "z9Ta7wcEgpU",
+                "videoPublishedAt": "2021-03-18T07:16:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jNxhP_kRdBD8Wg5P0dVXj3MfplY",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:06:56Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Idiots guide to MP3's from 1999.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zzn9Oxj5I9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zzn9Oxj5I9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zzn9Oxj5I9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zzn9Oxj5I9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zzn9Oxj5I9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zzn9Oxj5I9I"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "zzn9Oxj5I9I",
+                "videoPublishedAt": "2021-03-25T05:03:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S88HwUjaxubqOQbVq6EmkNr9wfk",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:07:01Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: An Original Craig.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qNWYrClrORc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qNWYrClrORc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qNWYrClrORc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qNWYrClrORc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qNWYrClrORc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qNWYrClrORc"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "qNWYrClrORc",
+                "videoPublishedAt": "2021-04-01T06:56:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Qig_vXcvG3Ulq83lq2GPcOzqHBM",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:07:06Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Essential Accessories",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/asiyDOGc08U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/asiyDOGc08U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/asiyDOGc08U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/asiyDOGc08U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/asiyDOGc08U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "asiyDOGc08U"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "asiyDOGc08U",
+                "videoPublishedAt": "2021-04-08T09:40:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x9oDPH5LgK06uCTEp1UURCZcftA",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:07:11Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Un-Coolest looking MP3 Player.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bHJ8bqvrVf8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bHJ8bqvrVf8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bHJ8bqvrVf8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bHJ8bqvrVf8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bHJ8bqvrVf8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bHJ8bqvrVf8"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "bHJ8bqvrVf8",
+                "videoPublishedAt": "2021-04-15T08:28:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VgN_clr5JBsnp7vWwKZEKrKpoPo",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:07:16Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Warehouse.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDp15D-_3IQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDp15D-_3IQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDp15D-_3IQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KDp15D-_3IQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KDp15D-_3IQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KDp15D-_3IQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "KDp15D-_3IQ",
+                "videoPublishedAt": "2021-04-22T12:06:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e3J8qnPmps9DdaODxUEonMjNwKU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:07:21Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: An interview with Frank.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/is5eOyYd74Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/is5eOyYd74Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/is5eOyYd74Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/is5eOyYd74Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/is5eOyYd74Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "is5eOyYd74Q"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "is5eOyYd74Q",
+                "videoPublishedAt": "2021-04-29T10:53:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S52WAhI-o89MZzl8BPD0xkhoy6M",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:10:45Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Headphone Horde.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yJPqLjyHRbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yJPqLjyHRbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yJPqLjyHRbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yJPqLjyHRbs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yJPqLjyHRbs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yJPqLjyHRbs"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "yJPqLjyHRbs",
+                "videoPublishedAt": "2021-05-06T12:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tf9sT8KGJOhELuWf6io1sqFLfWo",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:10:55Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: I was scammed by Batman.",
+                "description": "By popular demand of my very generous Patreons this one has been made public! Big thanks to them for paying for this video and giving me the opportunity to be scammed by Batman.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gJ6-tBg8uIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gJ6-tBg8uIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gJ6-tBg8uIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gJ6-tBg8uIo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gJ6-tBg8uIo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gJ6-tBg8uIo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "gJ6-tBg8uIo",
+                "videoPublishedAt": "2021-05-14T06:46:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ua92IgYULL7wnzHLqRhYnbp6rfs",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:01Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: My 1980's gaming rig.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZXbz8LqpNUQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZXbz8LqpNUQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZXbz8LqpNUQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZXbz8LqpNUQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZXbz8LqpNUQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZXbz8LqpNUQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ZXbz8LqpNUQ",
+                "videoPublishedAt": "2021-05-20T09:16:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1ONpVjAbk_6JXa5hot5ipgGq5Ec",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:06Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: PODS iPod Speakers",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F77lD_H-83E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F77lD_H-83E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F77lD_H-83E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F77lD_H-83E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F77lD_H-83E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "F77lD_H-83E"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "F77lD_H-83E",
+                "videoPublishedAt": "2021-05-27T06:03:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Mdi6Xbo-31MtNKrcAUx641QvO1k",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:11Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The ModPod.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SgNv7GoHxrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SgNv7GoHxrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SgNv7GoHxrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SgNv7GoHxrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SgNv7GoHxrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SgNv7GoHxrY"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "SgNv7GoHxrY",
+                "videoPublishedAt": "2021-06-03T09:30:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MuXS2elsZLPWclY3N2yzZtU7Fi8",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:15Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Vintage Toys R Us Catalogue.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sE70U3Vkgno/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sE70U3Vkgno/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sE70U3Vkgno/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sE70U3Vkgno/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sE70U3Vkgno/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sE70U3Vkgno"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "sE70U3Vkgno",
+                "videoPublishedAt": "2021-06-10T12:27:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AKzLzxBsz5r1MAXqOqnjNZqdH8g",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:20Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Selfishly fixing of an iPod for myself.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUxAGekYCmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUxAGekYCmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUxAGekYCmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zUxAGekYCmE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zUxAGekYCmE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zUxAGekYCmE"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "zUxAGekYCmE",
+                "videoPublishedAt": "2021-06-17T11:04:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lBb6kUjQH9UZf2ABX41o4OSBmso",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:25Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The worst phone I ever owned.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zpRxJ0oYnAU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zpRxJ0oYnAU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zpRxJ0oYnAU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zpRxJ0oYnAU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zpRxJ0oYnAU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zpRxJ0oYnAU"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "zpRxJ0oYnAU",
+                "videoPublishedAt": "2021-06-24T11:06:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M5kFZo1rDcLF_RYg-b9oPErklgA",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:30Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: New iPad Case Ceremony",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HeQChwTPkTE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HeQChwTPkTE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HeQChwTPkTE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HeQChwTPkTE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HeQChwTPkTE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HeQChwTPkTE"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "HeQChwTPkTE",
+                "videoPublishedAt": "2021-07-01T09:41:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eN6ejNpmLsMG-e0oo9S9nu_1GmQ",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:34Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The MP34 Player",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vpKRwLYXN6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vpKRwLYXN6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vpKRwLYXN6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vpKRwLYXN6Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vpKRwLYXN6Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vpKRwLYXN6Y"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "vpKRwLYXN6Y",
+                "videoPublishedAt": "2021-07-08T11:05:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ig8XXenKsxNkthPkolcgpkAsxqk",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:38Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The iCarly nugget.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HH5irCf5o3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HH5irCf5o3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HH5irCf5o3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HH5irCf5o3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HH5irCf5o3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 71,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HH5irCf5o3Y"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "HH5irCf5o3Y",
+                "videoPublishedAt": "2021-07-15T10:12:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sbXHDHP0gk7aGMTx9Too2Ki0cJU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:42Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Chilling with Frankie.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ikDD6wFovnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ikDD6wFovnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ikDD6wFovnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ikDD6wFovnM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ikDD6wFovnM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 72,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ikDD6wFovnM"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ikDD6wFovnM",
+                "videoPublishedAt": "2021-07-22T09:52:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x2APamWZF80nmJTuHQqAiovhsac",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:47Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: It just kept getting worse.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nguc6KAbBmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nguc6KAbBmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nguc6KAbBmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nguc6KAbBmw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nguc6KAbBmw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Nguc6KAbBmw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Nguc6KAbBmw",
+                "videoPublishedAt": "2021-07-29T11:25:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SjxTirQf9vQphyolpDAQXT1npCE",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:52Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Dick Smith Tour",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/59SlH9QW998/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/59SlH9QW998/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/59SlH9QW998/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/59SlH9QW998/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/59SlH9QW998/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 74,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "59SlH9QW998"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "59SlH9QW998",
+                "videoPublishedAt": "2021-08-05T12:01:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "priCraUV-oHt8JQELw1E9YHRXLU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:11:56Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: This was filmed on a flip phone...",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ql46cbxkA2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ql46cbxkA2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ql46cbxkA2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ql46cbxkA2s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ql46cbxkA2s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 75,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ql46cbxkA2s"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Ql46cbxkA2s",
+                "videoPublishedAt": "2021-08-12T11:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q4ponC7XkqxTtxuWDQcf7OyqzuE",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:00Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Really old drum catalogue",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tsd-0azBi-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tsd-0azBi-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tsd-0azBi-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tsd-0azBi-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tsd-0azBi-U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 76,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tsd-0azBi-U"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "tsd-0azBi-U",
+                "videoPublishedAt": "2021-08-19T10:39:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UqaM3wdxgbqF8XA8YrlNazYFfLk",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:05Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Sony Pillow Speaker.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bnGHqTr0o1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bnGHqTr0o1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bnGHqTr0o1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bnGHqTr0o1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bnGHqTr0o1g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 77,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bnGHqTr0o1g"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "bnGHqTr0o1g",
+                "videoPublishedAt": "2021-08-26T08:16:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p_1pdghTTXnMgHXmQt6PqMZqjMg",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:09Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Nugge Lucke Dunke",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rHaX9FAeYco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rHaX9FAeYco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rHaX9FAeYco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rHaX9FAeYco/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rHaX9FAeYco/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 78,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rHaX9FAeYco"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "rHaX9FAeYco",
+                "videoPublishedAt": "2021-09-02T08:12:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bXeM7KA36IzRG81lqlen8Ls6Ak0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:14Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: I got an Instant Camera.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_TArDvQGAOY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_TArDvQGAOY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_TArDvQGAOY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_TArDvQGAOY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_TArDvQGAOY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 79,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_TArDvQGAOY"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "_TArDvQGAOY",
+                "videoPublishedAt": "2021-09-09T09:58:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XdMAJVYHZapU__yum3OzBgKthP0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:19Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: 2003 Sony Walkman CD",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oGPbr7V9p2o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oGPbr7V9p2o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oGPbr7V9p2o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oGPbr7V9p2o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oGPbr7V9p2o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 80,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oGPbr7V9p2o"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "oGPbr7V9p2o",
+                "videoPublishedAt": "2021-09-16T08:15:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f24Sc4SHWpi9i4AfB4YF6OEJJGU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:24Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Hewlett-Packard Shuffle.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jWhkPbSvyVQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jWhkPbSvyVQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jWhkPbSvyVQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jWhkPbSvyVQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jWhkPbSvyVQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 81,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jWhkPbSvyVQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "jWhkPbSvyVQ",
+                "videoPublishedAt": "2021-09-23T09:52:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kLVEgD5JDGo_MJoVVToX36-rxKs",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:29Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Sony Recorder.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I6dtpxYF0go/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I6dtpxYF0go/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I6dtpxYF0go/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I6dtpxYF0go/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I6dtpxYF0go/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 82,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "I6dtpxYF0go"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "I6dtpxYF0go",
+                "videoPublishedAt": "2021-09-30T11:36:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nem62Mzh3VKsBvkH506Rh7x5J5E",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:34Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Samsung \"YEPP\"",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LdNxqx2Jcnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LdNxqx2Jcnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LdNxqx2Jcnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LdNxqx2Jcnw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LdNxqx2Jcnw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 83,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LdNxqx2Jcnw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "LdNxqx2Jcnw",
+                "videoPublishedAt": "2021-10-07T07:49:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9iHZz-0jz5yrMsPIq93hZ8CuIwQ",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:38Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: My first \"smartphone\".",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/62KOhC7RwGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/62KOhC7RwGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/62KOhC7RwGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/62KOhC7RwGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/62KOhC7RwGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 84,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "62KOhC7RwGM"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "62KOhC7RwGM",
+                "videoPublishedAt": "2021-10-14T12:04:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Mz6aNhDZae25YmCqLZfCz8xB-X0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:12:44Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Bootleg AirPod Pros.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dPB2ICUvdIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dPB2ICUvdIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dPB2ICUvdIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dPB2ICUvdIo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dPB2ICUvdIo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 85,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dPB2ICUvdIo"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "dPB2ICUvdIo",
+                "videoPublishedAt": "2021-10-21T04:24:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DVuZtEtBqppAJgagSvAGHiuNtlU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:36Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Comotron.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZGYjsG-GN_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZGYjsG-GN_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZGYjsG-GN_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZGYjsG-GN_M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZGYjsG-GN_M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 86,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZGYjsG-GN_M"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ZGYjsG-GN_M",
+                "videoPublishedAt": "2021-10-28T08:16:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aVK39RjvESoE_isCEvGIZT4wtf4",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:41Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Cashies snare made me sad.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IzqwDWDGRdw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IzqwDWDGRdw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IzqwDWDGRdw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IzqwDWDGRdw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IzqwDWDGRdw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 87,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IzqwDWDGRdw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "IzqwDWDGRdw",
+                "videoPublishedAt": "2021-11-04T08:09:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "plKWzK5HvHk0LLpq2l9NfGtgxsw",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5GMDBDNkJGMzYzREUyMTYw",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:45Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Lego foods of no relation.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZYgSUiqkJnk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZYgSUiqkJnk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZYgSUiqkJnk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZYgSUiqkJnk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZYgSUiqkJnk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 88,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZYgSUiqkJnk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "ZYgSUiqkJnk",
+                "videoPublishedAt": "2021-11-11T11:56:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zWRK29sNkdChGtDyunc_bLN2zHg",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4wQUE0QzM4MkJGQ0YwQjUx",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:49Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: My Home Speakers.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o_JdvkUD0BA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o_JdvkUD0BA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o_JdvkUD0BA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o_JdvkUD0BA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o_JdvkUD0BA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 89,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o_JdvkUD0BA"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "o_JdvkUD0BA",
+                "videoPublishedAt": "2021-11-18T11:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1ZR4IemDB8m3sD47Y1s9WYl8p9s",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5DQjg2RDQyMEVGQkZFOEVF",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:53Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: WE DUNK AGAIN.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9t06AntJN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9t06AntJN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9t06AntJN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N9t06AntJN0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N9t06AntJN0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 90,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N9t06AntJN0"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "N9t06AntJN0",
+                "videoPublishedAt": "2021-11-25T11:01:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cj16o5RiQHm-X4LeI8qReLOGnaA",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi4yM0EyQ0U1M0I2RkIwNTQ0",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:14:58Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: My vinyl albums.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qf_FWwkYvtw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qf_FWwkYvtw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qf_FWwkYvtw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qf_FWwkYvtw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qf_FWwkYvtw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 91,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qf_FWwkYvtw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "Qf_FWwkYvtw",
+                "videoPublishedAt": "2021-12-02T09:02:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Oe-VyAPJ79CdZi0CPd107Syu7LU",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5ERENFNTk4Q0Q2MTZDMTA5",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:03Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Horsez.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GE79B50EiMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GE79B50EiMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GE79B50EiMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GE79B50EiMw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GE79B50EiMw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 92,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GE79B50EiMw"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "GE79B50EiMw",
+                "videoPublishedAt": "2021-12-09T08:35:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1eqi78S9NRLYYakqDN2DbimIGr0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi41RDUzRjJFQ0Y0MUI3NzU1",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:07Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The Drum Stream Rig.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mol59qBCOJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mol59qBCOJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mol59qBCOJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mol59qBCOJk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mol59qBCOJk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 93,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mol59qBCOJk"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "mol59qBCOJk",
+                "videoPublishedAt": "2021-12-16T07:15:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IiT43KVoNgH9yL0LbYRH80kjq1M",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5FRjdGNDMzN0I2RTI3MDlG",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:12Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "Extra Frank Because THANK.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8oVVna9ozaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8oVVna9ozaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8oVVna9ozaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8oVVna9ozaE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8oVVna9ozaE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 94,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8oVVna9ozaE"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "8oVVna9ozaE",
+                "videoPublishedAt": "2021-12-17T02:12:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IlTUMkd0f0OTmAutNrQH7rJFRio",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi41ODIyMTgwQzA4NjJCQkZC",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:16Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The \"Lego\" iPod Dock.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WJpfav8831c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WJpfav8831c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WJpfav8831c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WJpfav8831c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WJpfav8831c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 95,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WJpfav8831c"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "WJpfav8831c",
+                "videoPublishedAt": "2021-12-23T07:26:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O3xPABXDmyOLZIqaQPOHzOyIjbs",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5CNEYyNTVBNDdGMDI1MDNC",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:21Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Dick Smith Catalogue from 1990.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q4onqJUBRwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q4onqJUBRwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q4onqJUBRwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q4onqJUBRwU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q4onqJUBRwU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 96,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q4onqJUBRwU"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "q4onqJUBRwU",
+                "videoPublishedAt": "2021-12-30T06:40:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-F8baYjki0q-DUSrU0ff1H6DF3U",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5EMUJFNzRCNDRFQjE5RjM4",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:26Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: Talking about my drum heroes.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T_7KTTWQTyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T_7KTTWQTyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T_7KTTWQTyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T_7KTTWQTyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T_7KTTWQTyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 97,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T_7KTTWQTyQ"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "T_7KTTWQTyQ",
+                "videoPublishedAt": "2022-01-06T10:13:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7bya-bRe3o-S1ghjW1GscDq_qQQ",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi44QjNCNkRENjNFQTBEMUND",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:30Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: The i-M8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kM3cVR02YDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kM3cVR02YDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kM3cVR02YDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kM3cVR02YDI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kM3cVR02YDI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 98,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kM3cVR02YDI"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "kM3cVR02YDI",
+                "videoPublishedAt": "2022-01-13T07:27:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bPNglkAezFZB6Wx2RlYrMA8RZO0",
+            "id": "UEx2MGs0cFY1aHVmeTNOYlRIMkZMdEx3VDM5OTRZYkIyRi5GNzk2RTlDQTNCQzJCQzJG",
+            "snippet": {
+                "publishedAt": "2022-04-04T06:15:35Z",
+                "channelId": "UC7Jwj9fkrf1adN4fMmTkpug",
+                "title": "After Show: I build a Lego T Rex.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7tsE1uvwUrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7tsE1uvwUrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7tsE1uvwUrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7tsE1uvwUrM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7tsE1uvwUrM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DankPods",
+                "playlistId": "PLv0k4pV5hufy3NbTH2FLtLwT3994YbB2F",
+                "position": 99,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7tsE1uvwUrM"
+                },
+                "videoOwnerChannelTitle": "DankPods",
+                "videoOwnerChannelId": "UC7Jwj9fkrf1adN4fMmTkpug"
+            },
+            "contentDetails": {
+                "videoId": "7tsE1uvwUrM",
+                "videoPublishedAt": "2022-01-20T11:16:39Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 177,
+        "resultsPerPage": 50
+    }
+}
